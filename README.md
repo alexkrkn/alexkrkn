@@ -1,16 +1,14 @@
-### Hi there 👋
+# Office Hours
 
-<!--
-**alexkrkn/alexkrkn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Every Wednesday I will help with any question you have about any of my [videos](https://www.youtube.com/bitesizeacademy) or anything about web development:
 
-Here are some ideas to get you started:
+- nodejs
+- javascript/typescript
+- react
+- aws: lambda, api gateway, cloudfront, s3, cloudwatch etc
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+or whatever else I can help with
+
+The meeting is held via zoom (audio + screen sharing). Duration: 60 minutes.
+
+Get a link to join [here](https://docs.google.com/forms/d/e/1FAIpQLSfivohj2NI_B-1Pii_w4otPiEBgIq78xZjOd3iprD1c9XYs5A/viewform)
