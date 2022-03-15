@@ -1,15 +1,11 @@
 # ⚡️ Office Hours
 
-Every Wednesday I will help with any question you have about any of my [videos](https://www.youtube.com/bitesizeacademy) or anything about web development:
+Every <b>Wednesday</b> I will help with any question you have about any of my [videos](https://www.youtube.com/bitesizeacademy) or anything about web development:
 
-✅ nodejs
-
-✅ javascript/typescript
-
-✅ react
-
-✅ aws: lambda, api gateway, cloudfront, s3, cloudwatch etc
-
+✅ nodejs<br/>
+✅ javascript/typescript<br/>
+✅ react<br/>
+✅ aws: lambda, api gateway, cloudfront, s3, cloudwatch etc<br/>
 
 or whatever else I can help with
 
